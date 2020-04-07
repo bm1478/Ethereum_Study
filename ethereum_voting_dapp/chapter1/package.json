@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ganache-cli": "^6.9.0",
+    "minimist": "^1.2.5",
     "solc": "^0.4.23",
     "web3": "^1.2.6"
   },
